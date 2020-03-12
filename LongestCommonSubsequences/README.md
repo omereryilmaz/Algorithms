@@ -1,11 +1,11 @@
 ### Longest Common Subsequences Algorithm (En Uzun Ortak Altdizi Algoritması)
-####Problem:####
+#### Problem:
 İki string degerin en uzun ortak altdizisinin dondurulmesi.
-####Ornekler:####
-'''
+#### Ornekler:
+```
 "AGGTAB", "GXTXAYB" => "GTAB"
 "ABAZDC", "BACBAD"  => "ABAD"
-'''
+```
 
 #### Algoritmik Cozum
 > Guncellenecek
