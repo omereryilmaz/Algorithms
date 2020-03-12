@@ -77,8 +77,11 @@ namespace LongestCommonSubsequences
         #endregion
         // Son - CreateSolutionMatrix()
 
-        public void FindSequences()
+        public string FindSequences()
         {
+            // Islemlere baslamadan once cozum matrisini olusturur
+            CreateSolutionMatrix();
+
             CellLastLocation lastLoc;
             lastLoc.i = S1Lenght - 1;
             lastLoc.j = S2Lenght - 1;
@@ -118,15 +121,17 @@ namespace LongestCommonSubsequences
             Console.WriteLine($"String 1: {String1}");
             Console.WriteLine($"String 2: {String2}");
             Console.WriteLine($"____________________");
-            Console.Write($"Sonuc: ");
+
+            string lastStr = "";
             // Son ciktiyi ters cevirerek ekrana bas
             for (int i = lcsStr.Length; i > 0; i--)
             {
-                Console.Write(lcsStr[i - 1]);
+                //Console.Write(lcsStr[i - 1]);
+                lastStr += lcsStr[i - 1];
             }
-            Console.WriteLine("");
-            Console.WriteLine($"____________________");
-            Console.ReadKey();
+
+            return lastStr;
+            
         }
     }
 }

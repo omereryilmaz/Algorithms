@@ -12,11 +12,14 @@ namespace LongestCommonSubsequences
         {
             String s2 = "AGGTAB";
             String s1 = "GXTXAYB";
+
             // Beklenen Sonuc: "GTAB"
 
             LCS lcs = new LCS(s1, s2);
-            lcs.CreateSolutionMatrix();
-            lcs.FindSequences();
+
+            Console.WriteLine($"Sonuc: {lcs.FindSequences()}");
+            
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,16 @@
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\TestLCS.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\TestLCS.pdb
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\LongestCommonSubsequences.exe
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\LongestCommonSubsequences.pdb
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\LongestCommonSubsequences.exe.config
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\obj\Debug\TestLCS.csprojAssemblyReference.cache
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\obj\Debug\TestLCS.csproj.CopyComplete
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\obj\Debug\TestLCS.dll
+D:\Calismalar\Algorithms\LongestCommonSubsequences\TestLCS\obj\Debug\TestLCS.pdb
