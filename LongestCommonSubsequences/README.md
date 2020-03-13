@@ -63,7 +63,7 @@ Olusan cozum tablosundan `LCS` cozum kumesinin elemanlarini bulmak icin son sati
 
 ![LCS Table 7](https://github.com/omereryilmaz/Algorithms/blob/master/LongestCommonSubsequences/img/lcs_table_7.jpg)
 
-Yukaridaki tabloda sonuncu hucrenin degerinin degeri sol-ust caprazdan arttarak geldigi gorulmektedir. `(Programlama kisminda bu sorunun cozumu icin hucrenin sol ve ust komsu hucrelerinin her ikisinden buyuk olup olmadigina bakilarak da bu sonuca varilabilir.)` Sonuc olarak `LCS` kumesine `B` harfi eklenir ve kontrol konumlandirmasi degerin alindigidigi hucreye yani sol-ust capraza cekilir.
+Yukaridaki tabloda sonuncu hucrenin degerinin degeri sol-ust caprazdan arttarak geldigi gorulmektedir. `(Programlama kisminda bu sorunun cozumu icin hucrenin sol ve ust komsu hucrelerinin her ikisinden buyuk olup olmadigina bakilarak da bu sonuca varilabilir.)` Sonuc olarak `LCS` kumesine `B` harfi eklenir ve kontrol konumlandirmasi degerin alindigi hucreye yani sol-ust capraza cekilir.
 
 ![LCS Table 8](https://github.com/omereryilmaz/Algorithms/blob/master/LongestCommonSubsequences/img/lcs_table_8.jpg)
 
@@ -74,10 +74,10 @@ Simdiki kontrol edilen hucrenin, ust komsusundan degerini aldigi gorulmektedir. 
 Sonuc olarak olusan `LCS` kumesinin; `GTAB` elemanlarindan olustugu gorulur.
 
 ### Olusturulan KCS Sinifinin Kullanimi
-![Longest Common Subsequences Algorithm Code](https://raw.githubusercontent.com/omereryilmaz/Algorithms/master/LongestCommonSubsequences/img/2.jpg?token=ABS2XK2ENBZDCIRKFGFVP5C6NKOXY)
+![Longest Common Subsequences Algorithm Code](https://github.com/omereryilmaz/Algorithms/blob/master/LongestCommonSubsequences/img/1.jpg)
 
 ### Sonuc Ciktisi
-![Longest Common Subsequences Algorithm Output](https://raw.githubusercontent.com/omereryilmaz/Algorithms/master/LongestCommonSubsequences/img/2.jpg?token=ABS2XK2ENBZDCIRKFGFVP5C6NKOXY)
+![Longest Common Subsequences Algorithm Output](https://github.com/omereryilmaz/Algorithms/blob/master/LongestCommonSubsequences/img/2.jpg)
 
 ### UnitTest Sonuclari
-![Longest Common Subsequences Algorithm UnitTest](https://raw.githubusercontent.com/omereryilmaz/Algorithms/master/LongestCommonSubsequences/img/unittest.jpg?token=ABS2XK3DSXD3JJDONCD3NH26NKOY2)
+![Longest Common Subsequences Algorithm UnitTest](https://github.com/omereryilmaz/Algorithms/blob/master/LongestCommonSubsequences/img/unittest.jpg)
