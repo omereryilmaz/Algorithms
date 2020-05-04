@@ -14,7 +14,6 @@ namespace LongestCommonSubsequences
             String s1 = "GXTXAYB";
 
             // Beklenen Sonuc: "GTAB"
-
             LCS lcs = new LCS(s1, s2);
 
             Console.WriteLine($"Sonuc: {lcs.FindSequences()}");

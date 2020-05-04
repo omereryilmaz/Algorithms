@@ -15,8 +15,8 @@ Genellikle iki kümedeki elemanlarin arasından ortak en uzun sıralı alt dizin
 Ornegin X ve Y kumesini, iki karakter dizisini temsil ettigini düşünelim ve bu iki karakter kümesi arasındaki en uzun ortak altdiziyi bulmaya çalışalım.
 
 ```
-** X: ** "GXTXAYB"
-** Y: ** "AGGTAB"
+ X: "GXTXAYB"
+ Y: "AGGTAB"
 ```
 
 
